@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DenzelSingh
+- 👋 Hi, I’m @wairimudenzel
 - 👀 I’m interested in ...Hacking and Coding
 - 🌱 I’m currently learning ... Hacking and Coding
 - 💞️ I’m looking to collaborate on ...
